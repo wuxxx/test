@@ -7,5 +7,6 @@ int int main(int argc, char const *argv[]) {
   //cout << "test" << endl;
   int a;
   int b;
+  cout << a + b << endl;
   return 0;
 }
