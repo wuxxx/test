@@ -2,6 +2,8 @@
 
 using namespace std;
 
+int main(int argc, char const *argv[])
 {
-
-eu
+    cout << "hello  world" << endl;
+    return 0;
+}

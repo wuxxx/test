@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int int main(int argc, char const *argv[]) {
+int main(int argc, char const *argv[]) {
   cout << "hello  world" << endl;
   //cout << "test" << endl;
   int a;
